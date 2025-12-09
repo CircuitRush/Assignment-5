@@ -1,1 +1,2 @@
-# Assignment-5
+In the assignment named Create a dictionary of students, I created a student dictionary in which I mentioned the names of 4 students. Then I took input from the user as the name of the student. After running an if statement that returns the marks of the student if it matches the user input. Else, it will return the Student not found. This programme is about the creation of a student library and making use of the library. 
+The file name Demonstrate List slicing is a simple program that opens the file named sample.tx,t and if not found the file it simply give an error message: Error the FIle sample.txt doesnt exists.
